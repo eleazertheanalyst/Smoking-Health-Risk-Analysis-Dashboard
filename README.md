@@ -71,7 +71,7 @@ The primary objectives of this analysis were to:
 
 The following demonstration showcases the interactive functionality of the Power BI dashboard, including organ selection, clinical condition toggles, and dynamic visual updates.
 
-![Interactive Dashboard Demo](https://github.com/eleazertheanalyst/Smoking-Health-Risk-Analysis-Dashboard/blob/main/dashboard_demo.gif)
+![Interactive Dashboard Demo](https://github.com/eleazertheanalyst/Smoking-Health-Risk-Analysis-Dashboard/blob/main/health_risk_dashboard_demo.gif)
 
 ---
 
