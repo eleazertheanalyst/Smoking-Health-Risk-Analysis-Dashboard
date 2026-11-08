@@ -6,10 +6,7 @@
 [![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-blue)](https://learn.microsoft.com/en-us/dax/)
 [![Healthcare Analytics](https://img.shields.io/badge/Domain-Healthcare%20Analytics-green)]()
 
-### [View Interactive Power BI Report](https://app.fabric.microsoft.com/groups/48a813aa-92c7-4a26-8dc5-f4f9ebb5db61/reports/861d1911-9487-430b-97ed-ac47a924a7fe?experience=fabric-developer)
-
 ---
-
 ## Project Overview
 
 This project delivers an interactive healthcare analytics dashboard designed to analyze the physiological impact of smoking behaviors across specific anatomical organs, clinical risk markers, and demographic cohorts.
@@ -19,14 +16,6 @@ The objective was to evaluate how smoking duration, daily cigarette intake, and 
 To create an engaging and intuitive analytical experience, the dashboard incorporates dynamic visual rendering through web-hosted image URLs, relational data modeling, and interactive cross-filtering.
 
 Users can select specific anatomical targets and toggle between `Damaged` and `Healthy` clinical states. These selections dynamically update high-resolution 3D anatomical models and re-evaluate the associated clinical and demographic metrics.
-
----
-
-## Dashboard in Action
-
-The following demonstration showcases the interactive functionality of the Power BI dashboard, including organ selection, clinical condition toggles, and dynamic visual updates.
-
-![Interactive Dashboard Demo](assets/dashboard_demo.gif)
 
 ---
 
@@ -75,6 +64,14 @@ The primary objectives of this analysis were to:
 - Evaluate cardiovascular comorbidities by examining cholesterol and hypertension risk tiers across life stages.
 - Examine demographic variations across biological sex and age groups.
 - Develop an interactive analytical interface featuring dynamic anatomical visual feedback.
+
+---
+
+## Dashboard in Action
+
+The following demonstration showcases the interactive functionality of the Power BI dashboard, including organ selection, clinical condition toggles, and dynamic visual updates.
+
+![Interactive Dashboard Demo](https://github.com/eleazertheanalyst/Smoking-Health-Risk-Analysis-Dashboard/blob/main/dashboard_demo.gif)
 
 ---
 
