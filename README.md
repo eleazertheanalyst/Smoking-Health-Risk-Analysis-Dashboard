@@ -34,7 +34,7 @@ The following demonstration showcases the interactive functionality of the Power
 
 The dashboard combines healthcare KPIs, smoking behavior analysis, demographic comparisons, and clinical risk indicators into a single interactive reporting interface.
 
-![Smoking Health Risk Dashboard](assets/dashboard_overview.png)
+<img width="1445" height="811" alt="Image" src="https://github.com/user-attachments/assets/24e15ead-81b2-4b4b-a67b-4fa446c284fc" />
 
 ---
 
@@ -44,9 +44,9 @@ One of the key features of this project is the ability to dynamically compare he
 
 The following screenshots demonstrate how the dashboard changes when the selected organ's clinical condition is toggled.
 
-| Healthy State | Damaged State |
+| Healthy Lung State | Damaged Lung State |
 |:---:|:---:|
-| ![Healthy Lungs](assets/lungs_healthy.png) | ![Damaged Lungs](assets/lungs_damaged.png) |
+<img width="1447" height="810" alt="Image" src="https://github.com/user-attachments/assets/688dce99-2ec6-457e-a856-c07953950ba2" /> | <img width="1446" height="810" alt="Image" src="https://github.com/user-attachments/assets/2f608200-71ee-4591-91c7-d3ed6cb1771e" /> |
 
 ---
 
@@ -54,7 +54,7 @@ The following screenshots demonstrate how the dashboard changes when the selecte
 
 The Power BI data model was designed to support dynamic filtering across patient clinical records, anatomical organs, pathological conditions, and image assets.
 
-![Power BI Data Model](assets/data_model_schema.png)
+<img width="1917" height="975" alt="Image" src="https://github.com/user-attachments/assets/a71f8b86-afaf-43c2-8b65-4d747637fddc" />
 
 ### Data Modeling Approach
 
